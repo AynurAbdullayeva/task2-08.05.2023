@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.Btns {
+    padding: 10px 20px;
+}
+
+.show {
+    background-color: skyblue;
+    margin-right: 10px;
+}
+
+.hide {
+    background-color: rgb(211, 85, 85);
+}
+
+.txt {
+    font-size: x-large;
+}
